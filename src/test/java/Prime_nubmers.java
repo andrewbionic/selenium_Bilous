@@ -19,12 +19,10 @@ public class Prime_nubmers {
         }
         return var;
     }
-    public class Prime_nubmersTest {
+    @Test
+    private void isPrimeTest()  {
+        Assert.assertEquals(isPrimeTest(5), true) ;
 
-        @Test
-        private void isPrimeTest(true)  {
-            Assert.assertEquals(true) ;
-
-        }
     }
+
 }
