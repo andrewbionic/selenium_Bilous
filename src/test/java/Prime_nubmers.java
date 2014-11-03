@@ -22,8 +22,8 @@ public class Prime_nubmers {
     public class Prime_nubmersTest {
 
         @Test
-        private void isPrimeTest(true)  {
-            Assert.assertEquals(true) ;
+        private void isPrimeTest()  {
+            Assert.assertEquals() ;
 
         }
     }
